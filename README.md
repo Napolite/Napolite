@@ -47,10 +47,13 @@ I'm **Okon Emmanuel**, a passionate developer obsessed with:
 
 ---
 
-```md
-![Okon's GitHub stats](https://github-readme-stats.vercel.app/api?Napolite=Napolite&show_icons=true&theme=dracula)
 
-![snake gif](https://github.com/Napolite/Napolite/blob/output/github-contribution-grid-snake.svg)
+## 📊 GitHub Stats
+
+![Okon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Napolite&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Napolite&layout=compact&theme=dracula)
+
+
 
 
 <!---
