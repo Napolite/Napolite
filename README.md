@@ -19,7 +19,7 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,rust,js,ts,react,nextjs,nodejs,tailwind,git,github,graphql,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=solidity,rust,js,ts,react,andrioidstudio,ios,ethers,web3 ,nextjs,nodejs,tailwind,git,github,graphql,vscode&theme=light" />
 </p>
 
 ---
